@@ -1,0 +1,47 @@
+{
+    "data":[
+        {    
+            "Name":"Edukondalu",
+            "Email":"edukondalu9999@gmail.com",
+            "Phone":9989801961,
+            "Company":"Ojas innovative tech pvt ltd",
+            "Website":"Ojas it.com",
+            "Address":"Hyderabad",
+            "image":"images/image1.jpg"
+        },
+        {
+            "Name":"Abhiram",
+            "Email":"Abhiram@1234",
+            "Phone":8186879256,
+            "Company":"abhiramss143@gmail.com",
+            "Website":"Tcs.com",
+            "Address":"Hyderabad",
+            "image":"images/image2.jpg"
+        },
+        {
+            "Name":"Sevenhills",
+            "Email":"sevenhills@gmail.com",
+            "Phone":7981573011,
+            "Company":"Capgemini",
+            "Website":"Capgemini.com",
+            "Address":"Hyderabad"
+            ,"image":"images/image3.jpg"
+        },{
+            "Name":"Arun",
+            "Email":"arun123@gmail.com",
+            "Phone":8974562179,
+            "Company":"Ojas innovative tech pvt ltd",
+            "Website":"Ojasit.com",
+            "Address":"Hyderabad"
+            ,"image":"images/image4.jpg"
+        },{
+            "Name":"Venkat",
+            "Email":"venkat@gmail.com",
+            "Phone":8745964235,
+            "Company":"Cognizant",
+            "Website":"Cognizant.com",
+            "Address":"Hyderabad"
+            ,"image":"images/image5.jpg"
+        }
+    ]
+}
